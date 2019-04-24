@@ -5,7 +5,7 @@ Certification Exam for UiPath Grading.
 Exercise: Scrap and process data from ACME Platform (https://acme-test.uipath.com/)
 
 
-1.Log in ACME System. 
+1. Log in ACME System. 
 
 2. Display All Vendors
 
